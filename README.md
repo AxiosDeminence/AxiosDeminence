@@ -1,7 +1,12 @@
+# Bio
 Hello, I'm Juhmer Tena. I'm an aspiring software engineer with technical skills in frontend web development and backend development, particularly in creating APIs and databases. I have worked in and led multiple teams to develop products for schoolwork and competition such as an Android app to recommend schedules for groups and Progressive Web App aimed at helping time management by simplifying the traditional pomodoro technique. 
 
 I graduated from University of California, San Diego on June 2022 studying Computer Science BS and I am interested in full-time jobs in software engineering roles. Please feel free to reach me through my email (juhmertena@gmail.com).
 
+# Portfolio Website
+https://axiosdeminence.github.io/
+
+# Technical Skills
 Languages: Java, Python3, C/C++, SQL (Postgres), JavaScript, HTML, CSS, Go  
 Libraries/Frameworks: Django, Django REST Framework, Jest, Cypress, Pytorch, Falcon  
 Developer Tools: Git, AWS EC2, DigitalOcean Droplets, gdb, Docker, Eleventy, Vite  
