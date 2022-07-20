@@ -1,16 +1,20 @@
 Hello, I'm Juhmer Tena. I'm an aspiring software engineer with technical skills in frontend web development and backend development, particularly in creating APIs and databases. I have worked in and led multiple teams to develop products for schoolwork and competition such as an Android app to recommend schedules for groups and Progressive Web App aimed at helping time management by simplifying the traditional pomodoro technique. 
 
-I’m graduating in June 2022 and I am interested in full-time jobs in software engineering roles. Please feel free to reach me through my email (juhmertena@gmail.com).
+I graduated from University of California, San Diego on June 2022 studying Computer Science BS and I am interested in full-time jobs in software engineering roles. Please feel free to reach me through my email (juhmertena@gmail.com).
 
-Proficient: Python3, Java, C, C++, Javascript, Git, Valgrind, GDB, Golang
-
-Familiar: SQL, RESTful APIs, Django, Docker
+Languages: Java, Python3, C/C++, SQL (Postgres), JavaScript, HTML, CSS, Go  
+Libraries/Frameworks: Django, Django REST Framework, Jest, Cypress, Pytorch, Falcon  
+Developer Tools: Git, AWS EC2, DigitalOcean Droplets, gdb, Docker, Eleventy, Vite  
 
 # Education
-### BS Computer Science at University of California, San Diego
-- **CSE 110 Software Engineering** - Worked in a team to create a PWA aimed at helping users with time management skills. Developed CI/CD pipeline using Github Actions to leverage Cypress for E2E testing and Jest for JavaScript unit testing.
-- **CSE 124 Networked Services** - 4 projects revolving around AWS and Go learning how to create RPCs, a web server, and a distributed database system using the [Chord protocol](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)).
-- **CSE 132A Database System Principles** - How to form SQL queries and how to use relational decompositions, such as 3NF, to design relational databases.
-- **CSE 142 Computer Architecture: A Software Perspective** - Learned how to take advantage of a systems' architecture and system in order to improve performance of applications.
-- **CSE 151B Deep Learning** - Numpy and Pytorch for deep learning networks with projects to classify objects in the Food-101 dataset and image captioning with the COCO dataset.
-- **CSE 158 Recommender Systems and Web Mining** - Data science principles and machine learning in order to generate recommendation systems for content or products and predict customer usage.
+B.S. Computer Science  
+University of California, San Diego  
+Graduated June 2022  
+Major GPA: 3.758  
+
+# Projects
+* Pomodoro Timer: Inherited an existing project and applied design patterns to refactor an existing codebase. Explored the time management domain and pomodoro technique in order to understand the problem to target areas of improvement.
+* Roleplay Dice Scraper: Designed a web scraper using node.js to export records to a DSV format. Developed a native add-on that leverages an existing C library to improve performance of querying the next required record.
+* Portfolio Website: Used Eleventy to statically generate a website to showcase different projects. Leveraged Lit and Vite to reduce page load times.
+* Meeting Time Recommender: Led a team of four developers to deliver a native Android app to coordinate user schedules for meetings. Created a PostgreSQL database and RESTful API to handle groups and suggest meeting times.
+* Scalable Database: Devised a protocol to scale storage across multiple servers to increase service resiliency. Deployed consistent hashing to allow for the addition and removal of nodes without disrupting the service.
